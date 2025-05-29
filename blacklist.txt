@@ -44,3 +44,4 @@ com.boost.clean.cache.junk
 com.brightness.control.flash
 com.fast.cleaner.cpu.cooler
 com.adblock.cleaner.tool
+com.womenbible.fordailypray.andlearning
