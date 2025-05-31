@@ -45,3 +45,4 @@ com.brightness.control.flash
 com.fast.cleaner.cpu.cooler
 com.adblock.cleaner.tool
 com.womenbible.fordailypray.andlearning
+com.shield.cleanjunk.tool
