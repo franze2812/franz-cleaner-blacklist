@@ -56,3 +56,13 @@ com.beatwatch.fitness
 com.translatescan.tool
 com.handset.locator
 com.dropo.utility
+com.aquatracker.health
+com.clicksave.downloader
+com.scanhawk.qrscanner
+com.translatescan.tool
+com.beatwatch.fitness
+com.wutacamera.editor
+com.maxbrowser.web
+com.irecorder.screenrecorder
+com.fleckpe.subscriptionmanager
+com.hiddenads.minecraftclone
