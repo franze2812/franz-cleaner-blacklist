@@ -47,3 +47,12 @@ com.adblock.cleaner.tool
 com.womenbible.fordailypray.andlearning
 com.shield.cleanjunk.tool
 food.nutra.journey.nature
+com.aquatracker.app
+com.clicksave.downloader
+com.scanhawk.qrscanner
+com.watertimetracker.app
+com.bemore.health
+com.beatwatch.fitness
+com.translatescan.tool
+com.handset.locator
+com.dropo.utility
