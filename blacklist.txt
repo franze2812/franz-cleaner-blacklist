@@ -66,3 +66,4 @@ com.maxbrowser.web
 com.irecorder.screenrecorder
 com.fleckpe.subscriptionmanager
 com.hiddenads.minecraftclone
+com.android.safetycore
