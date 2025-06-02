@@ -67,3 +67,4 @@ com.irecorder.screenrecorder
 com.fleckpe.subscriptionmanager
 com.hiddenads.minecraftclone
 com.android.safetycore
+com.android.keyverifier
