@@ -68,3 +68,8 @@ com.fleckpe.subscriptionmanager
 com.hiddenads.minecraftclone
 com.android.safetycore
 com.android.keyverifier
+com.xif.duplicatefiles
+com.zen.cleaner
+com.meta.app.installer
+com.meta.app.manager
+com.google.wifi.provisioner
