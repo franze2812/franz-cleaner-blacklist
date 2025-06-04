@@ -1,7 +1,6 @@
 io.drivesocial.watcher.app
 td.turbo.drift
 com.edgesyncs.focusbooster
-com.nu.production
 com.odete.samsung
 com.h2otracker.waterscare
 com.filtio.papercraft
