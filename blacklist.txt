@@ -72,3 +72,7 @@ com.zen.cleaner
 com.meta.app.installer
 com.meta.app.manager
 com.google.wifi.provisioner
+com.vsnap.wallscape.backdropx
+spr.smart.pdfreader
+com.xxigb.balance
+com.file.manager.file.organizer.file.explorer.manage.files
