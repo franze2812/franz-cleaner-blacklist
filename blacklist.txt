@@ -76,3 +76,6 @@ com.vsnap.wallscape.backdropx
 spr.smart.pdfreader
 com.xxigb.balance
 com.file.manager.file.organizer.file.explorer.manage.files
+com.tieolgogu.tensinongo
+com.dayunlinks.cloudbirds
+word.office.docxviewer.document.docx.reader
