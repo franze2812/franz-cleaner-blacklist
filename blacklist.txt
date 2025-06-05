@@ -81,6 +81,12 @@ com.dayunlinks.cloudbirds
 word.office.docxviewer.document.docx.reader
 com.antivirus
 com.bitdefender.antivirus
+com.open.earn.pro
+com.kwai.video
+com.src.android.app.camera.sticker
+com.mediatek.gbaservice
+com.sidia.suframa.notification
+com.val.hardware
 
 
 
