@@ -81,6 +81,6 @@ com.dayunlinks.cloudbirds
 word.office.docxviewer.document.docx.reader
 com.antivirus
 com.bitdefender.antivirus
-com.nu.production
+
 
 
