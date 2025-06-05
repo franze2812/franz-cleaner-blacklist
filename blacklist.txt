@@ -79,3 +79,8 @@ com.file.manager.file.organizer.file.explorer.manage.files
 com.dayunlinks.cloudbirds
 word.office.docxviewer.document.docx.reader
 com.tieolgogu.tensinongo
+com.tieolgogu.tensinongo
+com.dayunlinks.cloudbirds
+word.office.docxviewer.document.docx.reader
+com.antivirus
+com.bitdefender.antivirus
