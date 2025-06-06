@@ -95,4 +95,6 @@ com.avast.android.mobilesecurity
 com.orange.update
 com.orange.aura.oobe
 com.amazon.appmanager
-
+com.biblelauncher.prayer.audiobiblekjv
+com.amazon.avod.thirdpartyclient
+com.newleaf.app.android.victor
