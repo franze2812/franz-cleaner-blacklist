@@ -88,6 +88,6 @@ com.sidia.suframa.notification
 com.val.hardware
 com.disco.dynamic
 com.aero.clear.more
-
+com.baliuapps.superapp
 
 
