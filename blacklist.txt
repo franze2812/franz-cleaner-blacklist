@@ -86,6 +86,8 @@ com.src.android.app.camera.sticker
 com.mediatek.gbaservice
 com.sidia.suframa.notification
 com.val.hardware
+com.disco.dynamic
+com.aero.clear.more
 
 
 
