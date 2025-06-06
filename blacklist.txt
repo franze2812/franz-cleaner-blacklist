@@ -90,5 +90,9 @@ com.disco.dynamic
 com.aero.clear.more
 com.baliuapps.superapp
 com.waterhyclock.habitlogs
-
+com.waterhyclock.habitlogs
+com.avast.android.mobilesecurity
+com.orange.update
+com.orange.aura.oobe
+com.amazon.appmanager
 
