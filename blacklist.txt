@@ -98,3 +98,5 @@ com.amazon.appmanager
 com.biblelauncher.prayer.audiobiblekjv
 com.amazon.avod.thirdpartyclient
 com.newleaf.app.android.victor
+com.tresyd.fyvgers
+com.h2o.waterdrinker
