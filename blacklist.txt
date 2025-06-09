@@ -114,3 +114,4 @@ com.fourtaps.brpro
 com.VRSoft.SupermercadosRevolucao
 com.joqzz.gqxzli.fqwoiuz.injnicechat
 com.freevoicetranslator.languagetranslate.speakandtranslate
+com.eksoecnioo.pranktools
