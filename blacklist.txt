@@ -118,3 +118,5 @@ com.eksoecnioo.pranktools
 com.tetst.echoboom
 com.laljieoein.safe
 com.easyrecovery.photorecovery.filerecover.restoredata
+com.hquz.nuqz.eheartframefolio
+com.colwood.video.downloader
