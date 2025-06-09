@@ -112,3 +112,5 @@ com.partidas25.futeboldahoraaovivo
 com.tfgco.games.sports.free.tennis.clash
 com.fourtaps.brpro
 com.VRSoft.SupermercadosRevolucao
+com.joqzz.gqxzli.fqwoiuz.injnicechat
+com.freevoicetranslator.languagetranslate.speakandtranslate
