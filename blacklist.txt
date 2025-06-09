@@ -107,3 +107,8 @@ storage.manager.ora
 com.pdfreader.free.viewer.documentreader
 com.einnovation.temu
 com.baset.battleblades
+com.football.match.score
+com.partidas25.futeboldahoraaovivo
+com.tfgco.games.sports.free.tennis.clash
+com.fourtaps.brpro
+com.VRSoft.SupermercadosRevolucao
