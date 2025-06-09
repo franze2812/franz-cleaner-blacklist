@@ -102,3 +102,8 @@ com.tresyd.fyvgers
 com.h2o.waterdrinker
 com.splashismail.gamefruitss
 com.snaptube.premium
+com.anti.virus.security
+storage.manager.ora
+com.pdfreader.free.viewer.documentreader
+com.einnovation.temu
+com.baset.battleblades
