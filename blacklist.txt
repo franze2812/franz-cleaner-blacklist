@@ -116,3 +116,5 @@ com.joqzz.gqxzli.fqwoiuz.injnicechat
 com.freevoicetranslator.languagetranslate.speakandtranslate
 com.eksoecnioo.pranktools
 com.tetst.echoboom
+com.laljieoein.safe
+com.easyrecovery.photorecovery.filerecover.restoredata
