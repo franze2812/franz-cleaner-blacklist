@@ -120,3 +120,5 @@ com.laljieoein.safe
 com.easyrecovery.photorecovery.filerecover.restoredata
 com.hquz.nuqz.eheartframefolio
 com.colwood.video.downloader
+com.timeize.lessbtly
+com.nvt.cs
