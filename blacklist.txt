@@ -122,3 +122,11 @@ com.hquz.nuqz.eheartframefolio
 com.colwood.video.downloader
 com.timeize.lessbtly
 com.nvt.cs
+com.timeize.lessbtly
+com.instabridge.android
+com.blood.pressure.bptracker
+bloodpressure.bloodpressureapp.bloodpressuretracker
+com.grownapp.aitranslator
+br.lgfelicio
+com.fogas.service
+br.com.fogas.service
