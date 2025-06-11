@@ -130,3 +130,6 @@ com.grownapp.aitranslator
 br.lgfelicio
 com.fogas.service
 br.com.fogas.service
+com.nanoforward.wifilink
+video.downloader.save.video.social.media
+com.world.youcinemobile
