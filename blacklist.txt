@@ -133,3 +133,13 @@ br.com.fogas.service
 com.nanoforward.wifilink
 video.downloader.save.video.social.media
 com.world.youcinemobile
+com.emaphoto.pic
+com.satsfying.power.washing
+com.supermarket.journey
+com.gf.busdriving.publictransport.citypassenger.drivinggames
+com.uc.minigame.relax
+com.bunbunstudio.magicblocktiles
+magic.piano.singing.capybara
+com.candle.magic_piano
+com.triangular.finevolution
+com.uc.gym.clicker
