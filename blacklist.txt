@@ -159,3 +159,12 @@ com.beatmanner.infomat
 com.zhiliaoapp.musically.go
 SamsungUX.DW.FreshP10.wallpapermulti
 SamsungUX.DW.FreshP07.wallpapermulti
+com.AIsystem.Equalizer.Music.Player
+com.glimzoid.froobly.mad
+com.manifyit.findanything
+com.goodabc.leaf.notes
+com.beatmanner.infomat
+com.timeize.lessbtly
+com.instabridge.android
+bloodpressure.bloodpressureapp.bloodpressuretracker
+com.grownapp.aitranslator
