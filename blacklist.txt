@@ -144,3 +144,4 @@ com.candle.magic_piano
 com.triangular.finevolution
 com.uc.gym.clicker
 com.wt.wtsarmanager
+com.glimzoid.froobly.mad
