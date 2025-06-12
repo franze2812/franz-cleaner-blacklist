@@ -150,7 +150,6 @@ com.netflix.partner.activation
 org.ifaa.android.service
 com.mmigroup.fmradio
 com.fingerprints.extension.service
-com.wt.wtsarmanager
 com.tencent.soter.soterserver
 com.dti.samsung
 com.glimzoid.froobly.mad
