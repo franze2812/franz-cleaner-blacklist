@@ -168,3 +168,6 @@ com.timeize.lessbtly
 com.instabridge.android
 bloodpressure.bloodpressureapp.bloodpressuretracker
 com.grownapp.aitranslator
+com.hy.system.fontserver
+com.debug.loggerui
+com.AIsystem.Equalizer.Music.Player
