@@ -184,3 +184,7 @@ com.lutech.musicplayer
 com.musicplayer.mp3.audio.mymusic.player
 com.musicplayer.music.app
 com.novanews.android.localnews.br
+com.bkdo.bazz.dool.backdropbazaarbyjnn
+com.fty.cam
+com.ig.bus.out
+com.bet365Wrapper.Bet365_Application
