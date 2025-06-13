@@ -176,3 +176,6 @@ org.chromium.webapk.a81a209e8c795c514_v2
 org.chromium.webapk.af0d867178dd3ce2e_v2
 org.chromium.webapk.aa7b998d953843700_v2
 com.dywx.larkplayer
+com.laljieoein.safe
+com.snaptube.premium
+com.dywx.larkplayer
