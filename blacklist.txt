@@ -179,3 +179,8 @@ com.dywx.larkplayer
 com.laljieoein.safe
 com.snaptube.premium
 com.dywx.larkplayer
+com.traceheart.redapping
+com.lutech.musicplayer
+com.musicplayer.mp3.audio.mymusic.player
+com.musicplayer.music.app
+com.novanews.android.localnews.br
