@@ -196,3 +196,7 @@ com.BingoStudio.ComboDigitsGame
 com.cherryfile.manager  
 com.vitastudio.mahjong  
 com.ted.number  
+com.longcheer.midtest
+com.body.balance
+com.drama.now.home.free
+com.musicplayer.player.mp3player.white
