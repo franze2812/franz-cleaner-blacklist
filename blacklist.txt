@@ -200,3 +200,14 @@ com.longcheer.midtest
 com.body.balance
 com.drama.now.home.free
 com.musicplayer.player.mp3player.white
+com.yha.engineersecret
+com.yha.runtime
+com.yha.factory
+com.yha.engineersecret
+com.yha.runtime
+com.yha.factory
+com.sprd.logmanager
+com.spreadtrum.proxy.nfwlocation
+com.sprd.powersavemodelauncher
+com.unisoc.silent.reboot
+com.oplus.lfeh
