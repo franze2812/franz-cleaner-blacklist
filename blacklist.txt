@@ -190,3 +190,9 @@ com.ig.bus.out
 com.bet365Wrapper.Bet365_Application
 com.findmyphone.phoneecho
 com.rsupport.rs.activity.rsupport.aas2
+com.learned.guard.jildo  
+com.body.balance  
+com.BingoStudio.ComboDigitsGame  
+com.cherryfile.manager  
+com.vitastudio.mahjong  
+com.ted.number  
