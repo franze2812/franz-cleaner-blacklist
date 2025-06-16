@@ -223,3 +223,11 @@ com.ape.personalize
 com.ape.soundrecorder
 com.clean.file.manager.master
 tc.turbo.cleaner
+com.camera.photo.editor.effects
+com.findjunks.delerclock
+com.dev.bourheem.namemybaybe
+com.qcueosknye.gstercue
+com.style.personal
+com.Bloodpressurerecorder.uill
+com.najoxplay.app
+com.christmasimages.feliznavidadgif
