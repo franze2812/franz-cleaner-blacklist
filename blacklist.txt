@@ -239,3 +239,7 @@ com.play.music.player.mp3.audio
 com.aurora.labrador.daycare
 com.inapp.incolor
 com.coloring.dinosaur
+com.mediatek.mdmconfig  
+com.mediatek.mdmlsample  
+com.mediatek.batterywarning  
+com.wkpkg.winkpack.emojiset
