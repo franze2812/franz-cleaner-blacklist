@@ -231,3 +231,11 @@ com.style.personal
 com.Bloodpressurerecorder.uill
 com.najoxplay.app
 com.christmasimages.feliznavidadgif
+nailsalon.nailpolish.nailart
+losebellyfat.flatstomach.absworkout.fatburning
+paint.by.number.pixel.art.coloring.drawing.puzzle
+com.musicdym.player
+com.play.music.player.mp3.audio
+com.aurora.labrador.daycare
+com.inapp.incolor
+com.coloring.dinosaur
