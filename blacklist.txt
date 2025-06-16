@@ -211,3 +211,15 @@ com.spreadtrum.proxy.nfwlocation
 com.sprd.powersavemodelauncher
 com.unisoc.silent.reboot
 com.oplus.lfeh
+com.aero.clear.more
+com.dramapulse.theater.short
+five.xx.video.ff.editor
+com.snapdrama.shortseries
+com.ultraelfo.organizer
+com.stricker.semoicon.sunnyclok
+com.inmobi.installer
+com.ape.performances
+com.ape.personalize
+com.ape.soundrecorder
+com.clean.file.manager.master
+tc.turbo.cleaner
