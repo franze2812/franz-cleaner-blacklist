@@ -251,3 +251,4 @@ word.and.text.countmate
 vn.image.blur.background
 com.flyingwhalegames.carout
 com.cashtube.ay
+com.taboola.mip
