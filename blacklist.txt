@@ -259,3 +259,8 @@ com.motorola.brapps
 com.motorola.appforecast
 com.claroColombia.contenedor
 com.mediatek.apmonitor
+com.newreading.goodreels
+com.nathnetwork.xciptv
+com.sehuptisw.weather.forecast
+com.rxsvcg.occ7981.iigrpt
+com.dbrcg.ozr8288.hsfj
