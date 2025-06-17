@@ -252,3 +252,10 @@ vn.image.blur.background
 com.flyingwhalegames.carout
 com.cashtube.ay
 com.taboola.mip
+com.taboola.mip
+com.inmobi.installer
+com.dti.amx
+com.motorola.brapps
+com.motorola.appforecast
+com.claroColombia.contenedor
+com.mediatek.apmonitor
