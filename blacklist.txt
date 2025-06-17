@@ -243,3 +243,7 @@ com.mediatek.mdmconfig
 com.mediatek.mdmlsample  
 com.mediatek.batterywarning  
 com.wkpkg.winkpack.emojiset
+com.mixmoji.emojifun
+com.inscode.autoclicker
+com.fiolsface.fiestamoni
+com.blackout.word
