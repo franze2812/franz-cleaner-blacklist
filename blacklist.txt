@@ -247,3 +247,7 @@ com.mixmoji.emojifun
 com.inscode.autoclicker
 com.fiolsface.fiestamoni
 com.blackout.word
+word.and.text.countmate
+vn.image.blur.background
+com.flyingwhalegames.carout
+com.cashtube.ay
