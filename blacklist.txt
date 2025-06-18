@@ -302,3 +302,8 @@ com.rlk.weathers
 com.sh.smart.caller
 com.reallytek.wg
 com.hoffnung
+com.dubox.drive
+com.sigmo.scanner.app
+com.lemon.lvoverseas
+br.biblia
+br.com.gabba.Caixa
