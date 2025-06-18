@@ -270,3 +270,11 @@ com.memeandsticker.textsticker
 com.lmtech.cameralocation.gpstagcamera
 com.restorefile.filerecovery.photorecovery
 com.vaysanweb.horoscopodehoy
+com.misslive
+com.viewer.pdfpro
+com.memeandsticker.textsticker
+com.lmtech.cameralocation.gpstagcamera
+com.restorefile.filerecovery.photorecovery
+com.vaysanweb.horoscopodehoy
+com.opera.browser
+br.mobilibus.jaraguatem
