@@ -278,3 +278,6 @@ com.restorefile.filerecovery.photorecovery
 com.vaysanweb.horoscopodehoy
 com.opera.browser
 br.mobilibus.jaraguatem
+com.sweep.deuytb
+com.photocamera.editors.effects.teilsjsd
+com.truedevelopersstudio.automatictap.autoclicker
