@@ -264,3 +264,9 @@ com.nathnetwork.xciptv
 com.sehuptisw.weather.forecast
 com.rxsvcg.occ7981.iigrpt
 com.dbrcg.ozr8288.hsfj
+com.misslive
+com.viewer.pdfpro
+com.memeandsticker.textsticker
+com.lmtech.cameralocation.gpstagcamera
+com.restorefile.filerecovery.photorecovery
+com.vaysanweb.horoscopodehoy
