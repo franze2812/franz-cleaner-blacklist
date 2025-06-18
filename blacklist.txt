@@ -310,3 +310,13 @@ br.com.gabba.Caixa
 com.mountainjeep.car.race.jeepchallenge
 com.ycgame.dreamytaptiles
 diy.makeup.master.artist.stylist
+com.sprd.linkturbo
+rc.rocket.cleaner
+spr.smart.pdfreader
+com.viewer.pdfpro
+com.jeyluta.timestampcamerafree
+com.rs21.tvonline
+com.happymod.apk
+com.edjdigital.vivasorte
+albums.gallery.photo.folder.picasa.app.web.gallery
+pdfreader.pdfviewer.free.officetool
