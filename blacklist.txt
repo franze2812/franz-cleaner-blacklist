@@ -345,3 +345,6 @@ com.mediatek.MtkSettingsResOverlay
 com.mediatek.SettingsProviderResOverlay
 com.mediatek.frameworkresoverlay
 dc.daily.cleaner
+com.ssnatrue.notesable
+pdf.pdfreader.viewer.editor.free
+com.kim.kimapp
