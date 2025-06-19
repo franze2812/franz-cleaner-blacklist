@@ -320,3 +320,14 @@ com.happymod.apk
 com.edjdigital.vivasorte
 albums.gallery.photo.folder.picasa.app.web.gallery
 pdfreader.pdfviewer.free.officetool
+com.go.browser
+com.wdstechnology.android.kryten
+com.mediaradiance.shotshort
+com.gamesHot.Hotsxj1w
+com.gamecollection.hub
+com.mobilelegends.mi
+com.pvoain.ciu
+com.asdvru.rthrew
+com.scopely.monopolygo.flexion
+com.xgame.MakeupBeauty.mi
+com.mexcpro.client
