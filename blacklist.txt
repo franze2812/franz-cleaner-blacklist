@@ -331,3 +331,17 @@ com.asdvru.rthrew
 com.scopely.monopolygo.flexion
 com.xgame.MakeupBeauty.mi
 com.mexcpro.client
+com.oem.euiccpartnerapp.overlay.retca
+com.oem.euiccpartnerapp.overlay.br
+com.oem.euiccpartnerapp.overlay.usc
+com.oem.euiccpartnerapp.overlay.vzw
+com.oem.euiccpartnerapp.overlay.dish
+com.oem.euiccpartnerapp.overlay.att
+com.oem.euiccpartnerapp.overlay.cc
+com.oem.euiccpartnerapp.overlay.tmo
+com.oem.euiccpartnerapp.overlay.na
+com.mediatek.FrameworkResOverlayExt
+com.mediatek.MtkSettingsResOverlay
+com.mediatek.SettingsProviderResOverlay
+com.mediatek.frameworkresoverlay
+dc.daily.cleaner
