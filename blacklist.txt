@@ -348,3 +348,6 @@ dc.daily.cleaner
 com.ssnatrue.notesable
 pdf.pdfreader.viewer.editor.free
 com.kim.kimapp
+bcr.bus.chroma.rush
+musicplayer.musicapps.music.mp3player
+com.kwai.video
