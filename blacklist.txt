@@ -355,3 +355,5 @@ com.sunnywall.youeblooms
 com.traditionalunlimited.zapex
 com.halloweenball.merge.game
 com.hrsdf.etrqww
+com.zhiliaoapp.musically.go
+com.diotek.sec.lookup.dictionary
