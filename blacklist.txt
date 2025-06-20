@@ -351,3 +351,6 @@ com.kim.kimapp
 bcr.bus.chroma.rush
 musicplayer.musicapps.music.mp3player
 com.kwai.video
+com.sunnywall.youeblooms
+com.traditionalunlimited.zapex
+com.halloweenball.merge.game
