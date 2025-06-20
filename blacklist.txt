@@ -357,3 +357,7 @@ com.halloweenball.merge.game
 com.hrsdf.etrqww
 com.zhiliaoapp.musically.go
 com.diotek.sec.lookup.dictionary
+com.document.pilot.files
+com.bible.truth.reading.daily
+tech.palm.id
+tech.palm.find
