@@ -361,3 +361,4 @@ com.document.pilot.files
 com.bible.truth.reading.daily
 tech.palm.id
 tech.palm.find
+com.beint.zangi
