@@ -369,3 +369,7 @@ com.axiswalk.stepcountergo
 kwai.lite.video
 com.ezt.pdfreader.pdfviewer
 devian.tubemate.v3
+com.brushpen.craft
+com.pdfreader.zone
+com.publicamobile
+com.netflix.NGP.GTASanAndreasDefinitiveEdition
