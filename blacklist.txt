@@ -364,3 +364,4 @@ tech.palm.find
 com.beint.zangi
 com.boostloop.wiperight.cleanx
 com.bubblepop.cannon.puzzle
+com.clickttdownler.sourcemedi
