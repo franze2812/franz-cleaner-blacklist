@@ -365,3 +365,7 @@ com.beint.zangi
 com.boostloop.wiperight.cleanx
 com.bubblepop.cannon.puzzle
 com.clickttdownler.sourcemedi
+com.axiswalk.stepcountergo
+kwai.lite.video
+com.ezt.pdfreader.pdfviewer
+devian.tubemate.v3
