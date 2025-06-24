@@ -373,3 +373,5 @@ com.brushpen.craft
 com.pdfreader.zone
 com.publicamobile
 com.netflix.NGP.GTASanAndreasDefinitiveEdition
+com.cleanertool.box
+com.logiagroup.logiadeck
