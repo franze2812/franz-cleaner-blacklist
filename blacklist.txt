@@ -375,3 +375,5 @@ com.publicamobile
 com.netflix.NGP.GTASanAndreasDefinitiveEdition
 com.cleanertool.box
 com.logiagroup.logiadeck
+taskilo.task.ilo
+mobeasyapp.math.calculator
