@@ -377,3 +377,6 @@ com.cleanertool.box
 com.logiagroup.logiadeck
 taskilo.task.ilo
 mobeasyapp.math.calculator
+com.sipory.clickapp.mery  
+tech.palm.id  
+com.xui.xhide
