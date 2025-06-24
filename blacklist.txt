@@ -380,3 +380,9 @@ mobeasyapp.math.calculator
 com.sipory.clickapp.mery  
 tech.palm.id  
 com.xui.xhide
+br.com.meupag
+com.sipory.clickapp.mery
+taskilo.task.ilo
+mobeasyapp.math.calculator
+com.brushpen.craft
+tech.palm.id
