@@ -366,3 +366,7 @@ music.musicplayer
 com.bluesky.best_ringtone.free2017
 com.slzcast.novasdepaz
 com.streema.simpleradio
+com.emojistickers.diypic
+com.sagtjd.nwdguy
+com.forecasts.noaa.live.weather
+com.gps.route.finder.location.directions.tracker.maps.navigation
