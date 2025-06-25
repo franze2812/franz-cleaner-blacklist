@@ -387,3 +387,10 @@ mobeasyapp.math.calculator
 com.brushpen.craft
 tech.palm.id
 lava.car.race.adventure
+com.spooky.dool.master.puzzle.game.free.gneqx
+com.punch.prankster.puzzle.fwaes.free.launcher.fgsaw
+com.animic.aigenerator
+com.speed.gc.autoclicker.automatictap
+com.rocks.music.videoplayer
+com.gol_footbal_sa
+music.musicplayer
