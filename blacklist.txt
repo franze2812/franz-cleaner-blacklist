@@ -394,3 +394,6 @@ com.speed.gc.autoclicker.automatictap
 com.rocks.music.videoplayer
 com.gol_footbal_sa
 music.musicplayer
+com.bluesky.best_ringtone.free2017
+com.slzcast.novasdepaz
+com.streema.simpleradio
