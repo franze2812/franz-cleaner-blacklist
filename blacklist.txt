@@ -1,7 +1,6 @@
 io.drivesocial.watcher.app
 td.turbo.drift
 com.edgesyncs.focusbooster
-com.odete.samsung
 com.h2otracker.waterscare
 com.filtio.papercraft
 com.intrepid.cleaner.apps.android
@@ -252,10 +251,7 @@ com.taboola.mip
 com.taboola.mip
 com.inmobi.installer
 com.dti.amx
-com.motorola.brapps
-com.motorola.appforecast
 com.claroColombia.contenedor
-com.mediatek.apmonitor
 com.newreading.goodreels
 com.nathnetwork.xciptv
 com.sehuptisw.weather.forecast
