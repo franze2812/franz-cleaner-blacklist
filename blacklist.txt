@@ -366,3 +366,10 @@ com.emojistickers.diypic
 com.sagtjd.nwdguy
 com.forecasts.noaa.live.weather
 com.gps.route.finder.location.directions.tracker.maps.navigation
+com.life360.android.safetymapd
+br.com.portaldoconsignado.scc
+com.sky.plane.paper
+com.orange.kidspiano.music.songs
+com.slinneace.omertahichamm
+com.mervecabsdriver
+com.storymatrix.drama
