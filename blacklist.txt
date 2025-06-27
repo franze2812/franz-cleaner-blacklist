@@ -374,3 +374,5 @@ com.slinneace.omertahichamm
 com.mervecabsdriver
 com.storymatrix.drama
 com.quickmathto.resolver
+com.TapTapTales.Octonauts
+com.akther.AlHadith_new
