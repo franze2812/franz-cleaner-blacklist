@@ -373,3 +373,4 @@ com.orange.kidspiano.music.songs
 com.slinneace.omertahichamm
 com.mervecabsdriver
 com.storymatrix.drama
+com.quickmathto.resolver
