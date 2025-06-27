@@ -70,7 +70,6 @@ com.xif.duplicatefiles
 com.zen.cleaner
 com.meta.app.installer
 com.meta.app.manager
-com.google.wifi.provisioner
 com.vsnap.wallscape.backdropx
 spr.smart.pdfreader
 com.xxigb.balance
@@ -156,8 +155,6 @@ com.manifyit.findanything
 com.goodabc.leaf.notes
 com.beatmanner.infomat
 com.zhiliaoapp.musically.go
-SamsungUX.DW.FreshP10.wallpapermulti
-SamsungUX.DW.FreshP07.wallpapermulti
 com.AIsystem.Equalizer.Music.Player
 com.glimzoid.froobly.mad
 com.manifyit.findanything
