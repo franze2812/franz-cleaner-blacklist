@@ -376,3 +376,6 @@ com.akther.AlHadith_new
 com.testwfadjf.wallpaer.iwfdu.anima
 com.block.juggle
 com.gamebrain.hexasort
+com.radio.fmradio
+com.tranquil.scenes
+lucid.time.warp
