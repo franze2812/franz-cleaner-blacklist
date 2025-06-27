@@ -376,3 +376,6 @@ com.storymatrix.drama
 com.quickmathto.resolver
 com.TapTapTales.Octonauts
 com.akther.AlHadith_new
+com.testwfadjf.wallpaer.iwfdu.anima
+com.block.juggle
+com.gamebrain.hexasort
