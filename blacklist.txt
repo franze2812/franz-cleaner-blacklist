@@ -384,5 +384,8 @@ com.corebeat.longdive.app
 xyz.urlmv.superradiotupi
 com.MeTVfuteblao.vivo
 br.com.devmaker.superradiotupi
+com.aqua.note.drink
+pdf.reader.pdfviewer.pdfeditor
+com.ekodroid.omrevaluator
 
 
