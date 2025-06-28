@@ -379,3 +379,4 @@ com.gamebrain.hexasort
 com.radio.fmradio
 com.tranquil.scenes
 lucid.time.warp
+com.daynest.curatoria.wallpaper
