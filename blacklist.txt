@@ -381,7 +381,8 @@ com.tranquil.scenes
 lucid.time.warp
 com.daynest.curatoria.wallpaper
 com.corebeat.longdive.app
-com.funppy.www.mozzi_lavender_2021.wallpaper
-com.funppy.www.mozzi_lavender_2021.home
-com.funppy.www.mozzi_lavender_2021.appicon
-com.funppy.www.mozzi_lavender_2021
+xyz.urlmv.superradiotupi
+com.MeTVfuteblao.vivo
+br.com.devmaker.superradiotupi
+
+
