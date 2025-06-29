@@ -144,7 +144,6 @@ com.uc.gym.clicker
 com.wt.wtsarmanager
 com.glimzoid.froobly.mad
 com.factory.mmigroup
-com.netflix.partner.activation
 org.ifaa.android.service
 com.mmigroup.fmradio
 com.fingerprints.extension.service
@@ -205,7 +204,6 @@ com.yha.factory
 com.sprd.logmanager
 com.spreadtrum.proxy.nfwlocation
 com.sprd.powersavemodelauncher
-com.unisoc.silent.reboot
 com.oplus.lfeh
 com.aero.clear.more
 com.dramapulse.theater.short
@@ -328,7 +326,6 @@ com.boostloop.wiperight.cleanx
 com.bubblepop.cannon.puzzle
 com.clickttdownler.sourcemedi
 com.axiswalk.stepcountergo
-kwai.lite.video
 com.ezt.pdfreader.pdfviewer
 devian.tubemate.v3
 com.brushpen.craft
