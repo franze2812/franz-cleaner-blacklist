@@ -386,5 +386,7 @@ pdf.reader.pdfviewer.pdfeditor
 com.ekodroid.omrevaluator
 com.tgchfc.cameraselfiepixel
 com.heartminder.bloodpressure.bodyhealth
-
+com.funlsietir.srieerroel
+com.ufuopo.magic.frame
+com.torquegamers.war.robot.car.transformation
 
