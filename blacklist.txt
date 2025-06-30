@@ -384,5 +384,5 @@ br.com.devmaker.superradiotupi
 com.aqua.note.drink
 pdf.reader.pdfviewer.pdfeditor
 com.ekodroid.omrevaluator
-
+com.tgchfc.cameraselfiepixel
 
