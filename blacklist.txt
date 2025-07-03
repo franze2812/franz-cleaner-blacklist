@@ -148,7 +148,6 @@ org.ifaa.android.service
 com.mmigroup.fmradio
 com.fingerprints.extension.service
 com.tencent.soter.soterserver
-com.dti.samsung
 com.glimzoid.froobly.mad
 com.manifyit.findanything
 com.goodabc.leaf.notes
@@ -280,7 +279,6 @@ com.dubox.drive
 com.sigmo.scanner.app
 com.lemon.lvoverseas
 br.biblia
-br.com.gabba.Caixa
 com.mountainjeep.car.race.jeepchallenge
 com.ycgame.dreamytaptiles
 diy.makeup.master.artist.stylist
