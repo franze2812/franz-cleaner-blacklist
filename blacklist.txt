@@ -81,7 +81,6 @@ com.antivirus
 com.bitdefender.antivirus
 com.open.earn.pro
 com.src.android.app.camera.sticker
-com.mediatek.gbaservice
 com.sidia.suframa.notification
 com.val.hardware
 com.disco.dynamic
@@ -92,9 +91,7 @@ com.waterhyclock.habitlogs
 com.avast.android.mobilesecurity
 com.orange.update
 com.orange.aura.oobe
-com.amazon.appmanager
 com.biblelauncher.prayer.audiobiblekjv
-com.amazon.avod.thirdpartyclient
 com.newleaf.app.android.victor
 com.tresyd.fyvgers
 com.h2o.waterdrinker
@@ -200,10 +197,6 @@ com.yha.factory
 com.yha.engineersecret
 com.yha.runtime
 com.yha.factory
-com.sprd.logmanager
-com.spreadtrum.proxy.nfwlocation
-com.sprd.powersavemodelauncher
-com.oplus.lfeh
 com.aero.clear.more
 com.dramapulse.theater.short
 five.xx.video.ff.editor
@@ -282,7 +275,6 @@ br.biblia
 com.mountainjeep.car.race.jeepchallenge
 com.ycgame.dreamytaptiles
 diy.makeup.master.artist.stylist
-com.sprd.linkturbo
 rc.rocket.cleaner
 spr.smart.pdfreader
 com.viewer.pdfpro
