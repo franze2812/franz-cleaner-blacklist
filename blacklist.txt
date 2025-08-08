@@ -392,3 +392,4 @@ com.nox.app.security
 clean.xxx.cleaner
 com.asteroid.shoot.airplane
 com.oganet.firef.totashaz
+com.bpressu.monitor.xflowr
