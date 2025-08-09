@@ -393,3 +393,4 @@ clean.xxx.cleaner
 com.asteroid.shoot.airplane
 com.oganet.firef.totashaz
 com.bpressu.monitor.xflowr
+com.mixmusic.player
