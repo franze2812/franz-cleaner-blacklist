@@ -402,3 +402,4 @@ org.chromium.webapk.a9ec62ebbe88abf43_v2
 com.silvertriangle.samsung.galaxy.samsunggalaxya30.galaxya30.wallpapers.launcher.themes 
 org.chromium.webapk.a6b4c5d4e07994d52_v2
 org.chromium.webapk.a3547ba2f9e7ba183_v2
+com.zohangaming.truckarenabattle
