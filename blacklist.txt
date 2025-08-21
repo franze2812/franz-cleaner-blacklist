@@ -405,3 +405,5 @@ org.chromium.webapk.a3547ba2f9e7ba183_v2
 com.zohangaming.truckarenabattle
 com.gamgys.clean.freshspace
 com.cqcg.zzl8776xilofone777.com
+com.w7dnt3t.qs8rbl8
+com.obertaxi.green
