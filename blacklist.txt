@@ -407,3 +407,4 @@ com.gamgys.clean.freshspace
 com.cqcg.zzl8776xilofone777.com
 com.w7dnt3t.qs8rbl8
 com.obertaxi.green
+myfiles.filemanager.fileexplorer.cleaner
