@@ -410,3 +410,4 @@ com.obertaxi.green
 myfiles.filemanager.fileexplorer.cleaner
 com.almalinternet1.quickdlbrowser
 com.cutemessa.emojimini
+pro.cleaner.fore.breeze
