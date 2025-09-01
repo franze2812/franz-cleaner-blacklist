@@ -412,3 +412,4 @@ com.almalinternet1.quickdlbrowser
 com.cutemessa.emojimini
 pro.cleaner.fore.breeze
 com.AlSYstem.airFire.Game
+com.fasthelperk.mogine
