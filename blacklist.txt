@@ -414,3 +414,6 @@ pro.cleaner.fore.breeze
 com.AlSYstem.airFire.Game
 com.fasthelperk.mogine
 com.miyatools.manager
+com.timetomove.datepuzzle
+com.wsomacp
+com.wssyncmldm
