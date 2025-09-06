@@ -417,3 +417,5 @@ com.miyatools.manager
 com.timetomove.datepuzzle
 com.wsomacp
 com.wssyncmldm
+stepcounter.pedometer.stepstracker
+com.zhiliaoapp.musically
