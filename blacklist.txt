@@ -419,3 +419,4 @@ com.wsomacp
 com.wssyncmldm
 stepcounter.pedometer.stepstracker
 com.zhiliaoapp.musically
+com.cullclean.sweepcleanmaster 
