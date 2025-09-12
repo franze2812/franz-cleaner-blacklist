@@ -421,3 +421,4 @@ stepcounter.pedometer.stepstracker
 com.zhiliaoapp.musically
 com.cullclean.sweepcleanmaster 
 com.yourclean.flashsecure
+daily.connect.wifihelper
