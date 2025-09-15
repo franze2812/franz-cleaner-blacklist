@@ -422,3 +422,5 @@ com.zhiliaoapp.musically
 com.cullclean.sweepcleanmaster 
 com.yourclean.flashsecure
 daily.connect.wifihelper
+org.malwarebytes.antimalware
+com.smiley.emoji.lovesocials
