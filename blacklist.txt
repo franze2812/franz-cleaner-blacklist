@@ -424,3 +424,5 @@ com.yourclean.flashsecure
 daily.connect.wifihelper
 org.malwarebytes.antimalware
 com.smiley.emoji.lovesocials
+com.fpg.road.vehicle
+com.fpg.crazy.punch
