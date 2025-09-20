@@ -426,3 +426,4 @@ org.malwarebytes.antimalware
 com.smiley.emoji.lovesocials
 com.fpg.road.vehicle
 com.fpg.crazy.punch
+com.emojicraze.eaclyok.uqwcbt
