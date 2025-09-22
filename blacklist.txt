@@ -428,3 +428,4 @@ com.fpg.road.vehicle
 com.fpg.crazy.punch
 com.emojicraze.eaclyok.uqwcbt
 com.filermove.clear.wizard
+com.scanvirus.antivirus.security
