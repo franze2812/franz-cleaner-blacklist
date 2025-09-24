@@ -429,3 +429,4 @@ com.fpg.crazy.punch
 com.emojicraze.eaclyok.uqwcbt
 com.filermove.clear.wizard
 com.scanvirus.antivirus.security
+ps.perfect.stack3d
