@@ -432,3 +432,5 @@ com.scanvirus.antivirus.security
 ps.perfect.stack3d
 com.chatapp.twig
 com.intelligent.heimlich.tool
+com.f1racing.game.simulator
+com.bbg.police.car.game.police.car.chase
