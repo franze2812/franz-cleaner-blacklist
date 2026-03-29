@@ -436,3 +436,7 @@ com.f1racing.game.simulator
 com.bbg.police.car.game.police.car.chase
 wht.water.habit.tracker
 com.car.driver.racing.king.racing
+com.phone.cleaner.clean.junk.storage.cache
+com.phone.cleaner.shineapps
+com.phonecleaner.storagecleaner.junkcleaner.cleanphone
+com.coopresapps.free.antivirus
