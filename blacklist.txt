@@ -440,3 +440,14 @@ com.phone.cleaner.clean.junk.storage.cache
 com.phone.cleaner.shineapps
 com.phonecleaner.storagecleaner.junkcleaner.cleanphone
 com.coopresapps.free.antivirus
+com.bpfit.bloodpressure.health
+com.blood.sugar.health.diabetes.tool
+com.tgi.apulsehearttracker.android
+om.autoclicker.tapassistant.automatictap.clicker
+com.quick.translate.spaces
+com.grouprx.pureanti
+com.alphamobile.pdf.viewer.editer
+com.wydevteam.wellnessmate
+com.ultra.reco.mesht
+com.recoue.mri.swift
+com.developer.recovery
