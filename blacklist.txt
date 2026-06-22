@@ -451,3 +451,6 @@ com.wydevteam.wellnessmate
 com.ultra.reco.mesht
 com.recoue.mri.swift
 com.developer.recovery
+com.xuxni.app
+com.hdvideoplayer.saxallvideo.hddownloader
+com.facebook.stella.
