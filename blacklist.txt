@@ -455,3 +455,4 @@ com.xuxni.app
 com.hdvideoplayer.saxallvideo.hddownloader
 com.facebook.stella.
 com.takecleanup.cleans.
+com.filoops.cleanstorage
